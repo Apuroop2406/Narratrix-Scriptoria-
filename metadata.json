@@ -1,0 +1,5 @@
+{
+  "name": "Film Production Assistant AI",
+  "description": "An AI-powered tool to analyze screenplays, estimate budgets, create shooting schedules, and generate concept art for film production.",
+  "requestFramePermissions": []
+}
